@@ -1,0 +1,1 @@
+print("\\n awias") #\take escape as a normal

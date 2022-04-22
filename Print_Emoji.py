@@ -1,0 +1,1 @@
+print("\U0001F603")#we use unicode of emoji for printing

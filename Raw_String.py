@@ -1,0 +1,1 @@
+print(r"awais \nali") # we use r befor the start of double quotes so pyhton compiler treat  escape as a normal
